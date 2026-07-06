@@ -123,7 +123,6 @@ Sanity-check result (1 repetition, Linux server):
 
 Both variants deliver the offered load. The key improvement is MLU reduction: ICA-JH reduces bottleneck link utilization from approximately 2.27 to approximately 1.01. This demonstrates better load balancing, not a throughput gain.
 
-Final 10-run statistics and plots will be added after the Linux batch run completes.
 
 ## Evaluation and plotting
 
