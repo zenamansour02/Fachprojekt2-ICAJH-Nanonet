@@ -1,0 +1,3 @@
+experiment,valid_runs,median_measured_mlu,mean_measured_mlu,json_expected_mlu,median_total_mbps,mean_total_mbps
+baseline_ecmp,10,2.0797,2.1188,2.0000,39.9967,39.9967
+icajh_srv6,10,1.0124,1.0124,1.0000,39.9977,39.9977

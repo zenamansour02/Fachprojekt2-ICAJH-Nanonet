@@ -1,0 +1,3 @@
+experiment,repetition,measured_mlu,json_expected_mlu,recv_bytes_node0,recv_bytes_node1,recv_bytes_node2,recv_bytes_node3,recv_bytes_node4,recv_bytes_node11,recv_bytes_node12,recv_bytes_node13,recv_bytes_node14,sent_bytes_node0,sent_bytes_node1,sent_bytes_node2,sent_bytes_node3,sent_bytes_node4,sent_bytes_node11,sent_bytes_node12,sent_bytes_node13,sent_bytes_node14
+baseline_ecmp,1,2.270358,2.0,610919857,264922588,2826,1834,610921841,1446855,1300158,1348643,1350535,610919857,264922588,2740,1834,610921691,151454561,151307599,151356349,151358499
+icajh_srv6,1,1.012449,1.0,612239298,455591931,151860819,1834,612241704,1270985,1270125,1265137,1418131,612239384,455591931,151860733,1834,612241468,151867389,151866129,151858821,151426095
