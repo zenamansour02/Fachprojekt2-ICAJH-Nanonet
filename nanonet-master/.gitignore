@@ -1,0 +1,10 @@
+/venv/
+/.idea/
+*.pyc
+*.topo.sh
+*.topo.py
+*.json
+
+# Plots of the topologies
+*.png
+*.dot
